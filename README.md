@@ -1,4 +1,5 @@
 # Weather-app-with-API
+## Learning and practicing JavaScript
 A web app to see a basic weather report using an API.
 
 Technologys:
